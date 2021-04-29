@@ -1,0 +1,82 @@
+[
+    {
+        "Flight_number": "G4155",
+        "Leg_number": "1",
+        "Departure_airport_code": "SCK",
+        "Scheduled_departure_time": "531PM",
+        "Arrival_airport_code": "IWA",
+        "Scheduled_arrival_time": "814PM"
+    },
+    {
+        "Flight_number": "G4154",
+        "Leg_number": "1",
+        "Departure_airport_code": "IWA",
+        "Scheduled_departure_time": "406PM",
+        "Arrival_airport_code": "SCK",
+        "Scheduled_arrival_time": "451PM"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Departure_airport_code": "OAK",
+        "Scheduled_departure_time": "1240PM",
+        "Arrival_airport_code": "LAX",
+        "Scheduled_arrival_time": "200PM"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Leg_number": "1",
+        "Departure_airport_code": "LAX",
+        "Scheduled_departure_time": "645PM",
+        "Arrival_airport_code": "HNL",
+        "Scheduled_arrival_time": "1043PM"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Departure_airport_code": "HNL",
+        "Scheduled_departure_time": "215PM",
+        "Arrival_airport_code": "OAK",
+        "Scheduled_arrival_time": "930PM"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Departure_airport_code": "SFO",
+        "Scheduled_departure_time": "1159PM",
+        "Arrival_airport_code": "ORD",
+        "Scheduled_arrival_time": "604AM"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Departure_airport_code": "ORD",
+        "Scheduled_departure_time": "719AM",
+        "Arrival_airport_code": "MSN",
+        "Scheduled_arrival_time": "819AM"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Departure_airport_code": "MDW",
+        "Scheduled_departure_time": "755AM",
+        "Arrival_airport_code": "ONT",
+        "Scheduled_arrival_time": "1010AM"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Departure_airport_code": "ONT",
+        "Scheduled_departure_time": "1045AM",
+        "Arrival_airport_code": "SMF",
+        "Scheduled_arrival_time": "1145AM"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Departure_airport_code": "LAX",
+        "Scheduled_departure_time": "915PM",
+        "Arrival_airport_code": "JFK",
+        "Scheduled_arrival_time": "522AM"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "Flight_number": "UA560",
+        "Airline": "United",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "B6624",
+        "Airline": "Jetblue",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Airline": "Delta",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Airline": "Delta",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "G4529",
+        "Airline": "Allegiant",
+        "Weekdays": "No"
+    },
+    {
+        "Flight_number": "G4154",
+        "Airline": "Allegiant",
+        "Weekdays": "No"
+    },
+    {
+        "Flight_number": "G4155",
+        "Airline": "Allegiant",
+        "Weekdays": "No"
+    },
+    {
+        "Flight_number": "HA48",
+        "Airline": "Hawaiian",
+        "Weekdays": "No"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Airline": "American",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Airline": "American",
+        "Weekdays": "Yes"
+    },
+    {
+        "Flight_number": "WN380",
+        "Airline": "Southwest",
+        "Weekdays": "Yes"
+    }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "Flight_number": "G4155",
+        "Leg_number": "1",
+        "Date:date": "2018-01-28",
+        "Seat_number": "1A",
+        "Customer_name": "Osvaldo",
+        "Customer_phone": "555-55-5555"
+    },
+    {
+        "Flight_number": "G4155",
+        "Leg_number": "1",
+        "Date:date": "2018-01-28",
+        "Seat_number": "2A",
+        "Customer_name": "Deana",
+        "Customer_phone": "867-5309"
+    },
+    {
+        "Flight_number": "G4154",
+        "Leg_number": "1",
+        "Date:date": "2018-01-31",
+        "Seat_number": "1A",
+        "Customer_name": "Mike",
+        "Customer_phone": "555-5309"
+    },
+    {
+        "Flight_number": "G4154",
+        "Leg_number": "1",
+        "Date:date": "2018-01-31",
+        "Seat_number": "11A",
+        "Customer_name": "Dan",
+        "Customer_phone": "555-0000"
+    },
+    {
+        "Flight_number": "G4154",
+        "Leg_number": "1",
+        "Date:date": "2018-01-31",
+        "Seat_number": "3A",
+        "Customer_name": "Ryan",
+        "Customer_phone": "555-0001"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "17A",
+        "Customer_name": "Mark",
+        "Customer_phone": "555-0002"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7A",
+        "Customer_name": "Edgar",
+        "Customer_phone": "555-0003"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "11B",
+        "Customer_name": "Naomi",
+        "Customer_phone": "555-0004"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7F",
+        "Customer_name": "Mitchell",
+        "Customer_phone": "555-0005"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7D",
+        "Customer_name": "KC",
+        "Customer_phone": "555-0006"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7C",
+        "Customer_name": "Jillian",
+        "Customer_phone": "555-0007"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "8A",
+        "Customer_name": "Carissa",
+        "Customer_phone": "555-0008"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "7E",
+        "Customer_name": "Clement",
+        "Customer_phone": "555-0009"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "10A",
+        "Customer_name": "John",
+        "Customer_phone": "555-0010"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "13A",
+        "Customer_name": "Sahib",
+        "Customer_phone": "555-0011"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "1E",
+        "Customer_name": "Alex",
+        "Customer_phone": "555-0012"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "14A",
+        "Customer_name": "KH",
+        "Customer_phone": "555-0013"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "15E",
+        "Customer_name": "Lisa",
+        "Customer_phone": "555-0014"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Seat_number": "6A",
+        "Customer_name": "Kyla",
+        "Customer_phone": "555-0015"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "6A",
+        "Customer_name": "Dorothy",
+        "Customer_phone": "555-0016"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7E",
+        "Customer_name": "Max",
+        "Customer_phone": "555-0017"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "2A",
+        "Customer_name": "Jillian",
+        "Customer_phone": "555-0018"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7F",
+        "Customer_name": "Michael",
+        "Customer_phone": "555-0019"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "13A",
+        "Customer_name": "Lisa",
+        "Customer_phone": "555-0020"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7D",
+        "Customer_name": "Drew",
+        "Customer_phone": "555-0021"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7F",
+        "Customer_name": "An",
+        "Customer_phone": "555-0022"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "1A",
+        "Customer_name": "Edgar",
+        "Customer_phone": "555-0023"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7B",
+        "Customer_name": "Jeremy",
+        "Customer_phone": "555-0024"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "6A",
+        "Customer_name": "KH",
+        "Customer_phone": "555-0025"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "7C",
+        "Customer_name": "Katya",
+        "Customer_phone": "555-0026"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7A",
+        "Customer_name": "Alicia",
+        "Customer_phone": "555-0027"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Seat_number": "3D",
+        "Customer_name": "Hillary",
+        "Customer_phone": "555-0028"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7E",
+        "Customer_name": "Antonio",
+        "Customer_phone": "555-0029"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "2B",
+        "Customer_name": "Jaskaran",
+        "Customer_phone": "555-0030"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7C",
+        "Customer_name": "Tom",
+        "Customer_phone": "555-0031"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7A",
+        "Customer_name": "Norlan",
+        "Customer_phone": "555-0032"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "9B",
+        "Customer_name": "Ryan",
+        "Customer_phone": "555-0033"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "8A",
+        "Customer_name": "Naomi",
+        "Customer_phone": "555-0034"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7F",
+        "Customer_name": "Mitchell",
+        "Customer_phone": "555-0035"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Seat_number": "8F",
+        "Customer_name": "Clement",
+        "Customer_phone": "555-0036"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "23D",
+        "Customer_name": "Danilo",
+        "Customer_phone": "555-0037"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "19A",
+        "Customer_name": "Sahib",
+        "Customer_phone": "555-0038"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7E",
+        "Customer_name": "Alex",
+        "Customer_phone": "555-0039"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "9A",
+        "Customer_name": "KC",
+        "Customer_phone": "555-0040"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "7B",
+        "Customer_name": "Kyla",
+        "Customer_phone": "555-0041"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Seat_number": "10C",
+        "Customer_name": "Drew",
+        "Customer_phone": "555-0042"
+    }
+]

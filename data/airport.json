@@ -1,0 +1,158 @@
+[
+    {
+        "Airport_code": "SFO",
+        "Name": "San-Francisco-International",
+        "City": "San-Francisco",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "OAK",
+        "Name": "Oakland-International",
+        "City": "Oakland",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "LAS",
+        "Name": "McCarren-International",
+        "City": "Las-Vegas",
+        "State": "NV"
+    },
+    {
+        "Airport_code": "HNL",
+        "Name": "Honolulu-International",
+        "City": "Honolulu",
+        "State": "HI"
+    },
+    {
+        "Airport_code": "JFK",
+        "Name": "John-F-Kennedy-International",
+        "City": "New-York",
+        "State": "NY"
+    },
+    {
+        "Airport_code": "FAT",
+        "Name": "Fresno-Yosemite-International",
+        "City": "Fresno",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "MSY",
+        "Name": "Louis-Armstrong",
+        "City": "New-Orleans",
+        "State": "LA"
+    },
+    {
+        "Airport_code": "ORD",
+        "Name": "Chicago-OHare-International",
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Airport_code": "MDW",
+        "Name": "Midway",
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Airport_code": "SMF",
+        "Name": "Sacramento-International",
+        "City": "Sacramento",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "SCK",
+        "Name": "Stockton-Metropolitan",
+        "City": "Stockton",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "PHX",
+        "Name": "Phoenix-Sky-Harbor",
+        "City": "Phoenix",
+        "State": "AZ"
+    },
+    {
+        "Airport_code": "DEN",
+        "Name": "Denver-Interational",
+        "City": "Denver",
+        "State": "CO"
+    },
+    {
+        "Airport_code": "EWR",
+        "Name": "Newark-International",
+        "City": "Newark",
+        "State": "NJ"
+    },
+    {
+        "Airport_code": "IAH",
+        "Name": "Bush-Intercontinental",
+        "City": "Houston",
+        "State": "TX"
+    },
+    {
+        "Airport_code": "LAX",
+        "Name": "Los-Angeles-International",
+        "City": "Los-Angeles",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "DCA",
+        "Name": "Ronald-Reagan-National",
+        "City": "Arlington",
+        "State": "VA"
+    },
+    {
+        "Airport_code": "IAD",
+        "Name": "Washington-Dulles-International",
+        "City": "Dulles",
+        "State": "VA"
+    },
+    {
+        "Airport_code": "MSN",
+        "Name": "Dane-County-Regional",
+        "City": "Madison",
+        "State": "WI"
+    },
+    {
+        "Airport_code": "MSP",
+        "Name": "Minneapolis-St-Paul",
+        "City": "Minneapolis-St-Paul",
+        "State": "MN"
+    },
+    {
+        "Airport_code": "SLC",
+        "Name": "Salt-Lake-City-International",
+        "City": "Salt-Lake-City",
+        "State": "UT"
+    },
+    {
+        "Airport_code": "DFW",
+        "Name": "Dallas-Fort-Worth",
+        "City": "DFW",
+        "State": "TX"
+    },
+    {
+        "Airport_code": "SAN",
+        "Name": "San-Diego-International",
+        "City": "San-Diego",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "IWA",
+        "Name": "Phoenix-Mesa-Gateway",
+        "City": "Phoenix",
+        "State": "AZ"
+    },
+    {
+        "Airport_code": "SJC",
+        "Name": "San-Jose-International",
+        "City": "San-Jose",
+        "State": "CA"
+    },
+    {
+        "Airport_code": "ONT",
+        "Name": "Ontario-International",
+        "City": "Ontario",
+        "State": "CA"
+    }
+]

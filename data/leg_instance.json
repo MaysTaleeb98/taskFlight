@@ -1,0 +1,123 @@
+[
+    {
+        "Flight_number": "G4155",
+        "Leg_number": "1",
+        "Date": "2018-01-28",
+        "Number_of_available_seats": "3",
+        "Airplane_id": "28",
+        "Departure_airport_code": "SCK",
+        "Departure_time": "535PM",
+        "Arrival_airport_code": "IWA",
+        "Arrival_time": "819PM"
+    },
+    {
+        "Flight_number": "G4155",
+        "Leg_number": "1",
+        "Date:date": "2018-01-31",
+        "Number_of_available_seats": "16",
+        "Airplane_id": "28",
+        "Departure_airport_code": "SCK",
+        "Departure_time": "531PM",
+        "Arrival_airport_code": "IWA",
+        "Arrival_time": "813PM"
+    },
+    {
+        "Flight_number": "G4154",
+        "Leg_number": "1",
+        "Date:date": "2018-02-03",
+        "Number_of_available_seats": "19",
+        "Airplane_id": "28",
+        "Departure_airport_code": "SCK",
+        "Departure_time": "406PM",
+        "Arrival_airport_code": "IWA",
+        "Arrival_time": "451PM"
+    },
+    {
+        "Flight_number": "DL5841",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Number_of_available_seats": "5",
+        "Airplane_id": "21",
+        "Departure_airport_code": "OAK",
+        "Departure_time": "1245PM",
+        "Arrival_airport_code": "LAX",
+        "Arrival_time": "205PM"
+    },
+    {
+        "Flight_number": "DL1149",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Number_of_available_seats": "20",
+        "Airplane_id": "13",
+        "Departure_airport_code": "LAX",
+        "Departure_time": "645PM",
+        "Arrival_airport_code": "HNL",
+        "Arrival_time": "1043PM"
+    },
+    {
+        "Flight_number": "HA48",
+        "Leg_number": "1",
+        "Date:date": "2018-02-24",
+        "Number_of_available_seats": "10",
+        "Airplane_id": "30",
+        "Departure_airport_code": "HNL",
+        "Departure_time": "215PM",
+        "Arrival_airport_code": "OAK",
+        "Arrival_time": "910PM"
+    },
+    {
+        "Flight_number": "AA1522",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Number_of_available_seats": "70",
+        "Airplane_id": "9",
+        "Departure_airport_code": "SFO",
+        "Departure_time": "1205AM",
+        "Arrival_airport_code": "ORD",
+        "Arrival_time": "604AM"
+    },
+    {
+        "Flight_number": "AA3472",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Number_of_available_seats": "15",
+        "Airplane_id": "18",
+        "Departure_airport_code": "ORD",
+        "Departure_time": "719AM",
+        "Arrival_airport_code": "MSN",
+        "Arrival_time": "819AM"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "1",
+        "Date:date": "2018-08-05",
+        "Number_of_available_seats": "130",
+        "Airplane_id": "10",
+        "Departure_airport_code": "MDW",
+        "Departure_time": "755AM",
+        "Arrival_airport_code": "ONT",
+        "Arrival_time": "1010AM"
+    },
+    {
+        "Flight_number": "WN380",
+        "Leg_number": "2",
+        "Date:date": "2018-08-05",
+        "Number_of_available_seats": "130",
+        "Airplane_id": "10",
+        "Departure_airport_code": "ONT",
+        "Departure_time": "1045AM",
+        "Arrival_airport_code": "SMF",
+        "Arrival_time": "1145AM"
+    },
+    {
+        "Flight_number": "B6624",
+        "Leg_number": "1",
+        "Date:date": "2018-02-09",
+        "Number_of_available_seats": "100",
+        "Airplane_id": "1",
+        "Departure_airport_code": "LAX",
+        "Departure_time": "915PM",
+        "Arrival_airport_code": "JFK",
+        "Arrival_time": "522AM"
+    }
+]

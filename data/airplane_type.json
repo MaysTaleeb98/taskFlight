@@ -1,0 +1,97 @@
+[
+    {
+        "Airplane_type_name": "A320",
+        "Max_seats": "180",
+        "Company": "Airbus"
+    },
+    {
+        "Airplane_type_name": "A319",
+        "Max_seats": "156",
+        "Company": "Airbus"
+    },
+    {
+        "Airplane_type_name": "A321",
+        "Max_seats": "236",
+        "Company": "Airbus"
+    },
+    {
+        "Airplane_type_name": "A332",
+        "Max_seats": "200",
+        "Company": "Airbus"
+    },
+    {
+        "Airplane_type_name": "707",
+        "Max_seats": "189",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "737",
+        "Max_seats": "124",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "747",
+        "Max_seats": "550",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "757",
+        "Max_seats": "228",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "727",
+        "Max_seats": "189",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "767",
+        "Max_seats": "290",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "777",
+        "Max_seats": "440",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "787",
+        "Max_seats": "323",
+        "Company": "Boeing"
+    },
+    {
+        "Airplane_type_name": "ERJ145",
+        "Max_seats": "50",
+        "Company": "Embraer"
+    },
+    {
+        "Airplane_type_name": "190",
+        "Max_seats": "114",
+        "Company": "Embraer"
+    },
+    {
+        "Airplane_type_name": "170",
+        "Max_seats": "80",
+        "Company": "Embraer"
+    },
+    {
+        "Airplane_type_name": "CRJ440",
+        "Max_seats": "44",
+        "Company": "Bombardier"
+    },
+    {
+        "Airplane_type_name": "CRJ100",
+        "Max_seats": "50",
+        "Company": "Bombardier"
+    },
+    {
+        "Airplane_type_name": "CRJ700",
+        "Max_seats": "78",
+        "Company": "Bombardier"
+    },
+    {
+        "Airplane_type_name": "MD80",
+        "Max_seats": "166",
+        "Company": "McDonnell-Douglas"
+    }
+]
